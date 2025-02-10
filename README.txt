@@ -1,0 +1,1 @@
+# This folder stores all material for the Launch School PY110 course #
